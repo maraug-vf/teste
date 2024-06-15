@@ -1,6 +1,8 @@
 #include display, gfx, led, buzzer
 #include "ihm_reacoes.h"
 
+adicionei este texto no arquivo.
+
 _Elemento_Retangulo 	//Item selecionado
 _Elemento_Scrollbar 	//Indicador rolagem tela
 _Elemento_InverteCor 	//Item selecionado
